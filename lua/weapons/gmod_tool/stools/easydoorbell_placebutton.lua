@@ -1,6 +1,6 @@
 
 TOOL.Category = "Construction"
-TOOL.Name = "Doorbell Button"
+TOOL.Name = "#tool.easydoorbell_placebutton.name"
 
 TOOL.ClientConVar[ "model" ] = "models/easydoorbell/buttonbasic.mdl"
 TOOL.ClientConVar[ "cooldown" ] = "1.0"
