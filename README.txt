@@ -59,7 +59,8 @@ The code should be well documented, but if you are confused about anything, feel
 a support ticket and I will be happy to help you.
 
 -- TRANSLATING --
-You can translate this addon for your community by editing the language file at lua/easydoorbell/cl_language.lua
+You can translate this addon for your community by creating new language file at /resource/localization
+You will need to create a folder of your language code(see all available languages in your gmod's folder steam/steamapps/common/GarrysMod/garrysmod/resource/localization)
 Note that once you have made changes to this file you will need to restart your game for them to take effect.
 
 -- CREDITS --
