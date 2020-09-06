@@ -66,6 +66,10 @@ Note that once you have made changes to this file you will need to restart your 
 Programming - Shorty
 Models - Shorty
 Textures - Shorty
+Localisation Improvements - Blueberry
+
+Translations
+Russian - Blueberry
 
 Sounds
 Button - Shorty
