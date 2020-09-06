@@ -3,7 +3,6 @@
 --------------------------------------------------------------------------------
 
 include( "easydoorbell/sh_init.lua" )
-include( "easydoorbell/cl_language.lua" )
 include( "easydoorbell/cl_permmenu.lua" )
 include( "easydoorbell/sh_tool_functions.lua" )
 

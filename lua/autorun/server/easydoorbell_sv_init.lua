@@ -16,7 +16,6 @@ include( "easydoorbell/sv_perm_entities.lua" )
 include( "easydoorbell/sv_perm_data_io.lua" )
 
 AddCSLuaFile( "easydoorbell/sh_init.lua" )
-AddCSLuaFile( "easydoorbell/cl_language.lua" )
 AddCSLuaFile( "easydoorbell/cl_permmenu.lua" )
 AddCSLuaFile( "easydoorbell/sh_tool_functions.lua" )
 

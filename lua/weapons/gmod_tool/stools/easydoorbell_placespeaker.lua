@@ -1,6 +1,6 @@
 
 TOOL.Category = "Construction"
-TOOL.Name = "Doorbell Speaker"
+TOOL.Name = "#tool.easydoorbell_placespeaker.name"
 
 TOOL.ClientConVar[ "model" ] = "models/easydoorbell/speakerbell.mdl"
 TOOL.ClientConVar[ "sound" ] = "easydoorbell/standard.wav"
